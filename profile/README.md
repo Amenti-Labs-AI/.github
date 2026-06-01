@@ -34,3 +34,4 @@ We focus on self-improving systems with human-gated feedback loops—streamlinin
 | Repository | Summary |
 |------------|---------|
 | [voc-weekly-digest](https://github.com/Amenti-Labs-AI/voc-weekly-digest) | Multi-source voice-of-customer signals consolidated into a weekly digest with act-now, watch-list, and all-clear outcomes; n8n orchestration |
+| [product-rag](https://github.com/Amenti-Labs-AI/product-rag) | Semantic product search and RAG catalog chat over local embeddings (Qdrant, Ollama); natural-language queries with price and attribute filters |
