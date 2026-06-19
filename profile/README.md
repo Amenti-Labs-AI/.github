@@ -35,3 +35,4 @@ We focus on self-improving systems with human-gated feedback loops—streamlinin
 |------------|---------|
 | [voc-weekly-digest](https://github.com/Amenti-Labs-AI/voc-weekly-digest) | Multi-source voice-of-customer signals consolidated into a weekly digest with act-now, watch-list, and all-clear outcomes; n8n orchestration |
 | [product-rag](https://github.com/Amenti-Labs-AI/product-rag) | Semantic product search and RAG catalog chat over local embeddings (Qdrant, Ollama); natural-language queries with price and attribute filters |
+| [wc26-album-tracker](https://github.com/Amenti-Labs-AI/wc26-album-tracker) | Flutter mobile app for Panini FIFA World Cup 2026 collectors; on-device ML Kit OCR scans album pages to mark missing stickers with live overlays and collection filters |
